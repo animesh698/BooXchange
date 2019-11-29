@@ -1,6 +1,6 @@
 # BooXchange
 
-### An Android App that lets you exchange or sell your textbooks or stationery with anyone!
+## An Android App that lets you exchange or sell your textbooks or stationery with anyone!
 ### The seller clicks a picture of the item to sell and uploads the picture with a description.
 ### The buyer can connect with the seller if they like the product
 
